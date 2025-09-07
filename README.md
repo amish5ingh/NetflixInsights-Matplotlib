@@ -36,6 +36,27 @@ The dataset contains details like:
 
 ## 📌 How to Run
 
-```bash
+```
+bash
 pip install pandas matplotlib
 python NetFlixProjectMatplotlib.py
+```
+## 📊 Sample Visualizations
+
+### 🌍 Top 10 Countries by Content
+![Top 10 Countries](Top10_Countries.png)
+
+### 🎬 Movies vs TV Shows Comparison
+![Movies vs TV Shows](moviesVsTV.png)
+
+### ⏱️ Movie Duration Histogram
+![Movie Duration Histogram](movies_duration_histogram.png)
+
+### 📅 Release Year Scatter Plot
+![Release Year Scatter](release_year_Scatter.png)
+
+### 📈 Content Rating Distribution
+![Content Rating](Content Rating.png)
+
+### 🔄 Movies & TV Shows Distribution
+![Movies_Tv_Shows_Comparison](Movies_Tv_Shows_Comparison.png)
