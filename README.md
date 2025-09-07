@@ -55,8 +55,5 @@ python NetFlixProjectMatplotlib.py
 ### 📅 Release Year Scatter Plot
 ![Release Year Scatter](release_year_Scatter.png)
 
-### 📈 Content Rating Distribution
-![Content Rating](Content Rating.png)
-
 ### 🔄 Movies & TV Shows Distribution
 ![Movies_Tv_Shows_Comparison](Movies_Tv_Shows_Comparison.png)
